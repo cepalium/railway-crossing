@@ -10,7 +10,6 @@ Constraints | <ul><li>Micro-controller to control the whole system</li><li>Servo
 
 
 ## Schematics
-See [Railway Crossing schematics by Fritzing](https://github.com/TuanANg/railway-crossing/blob/master/Railway_Crossing.fzz)
 ![Railway Crossing Schematics](media/schematics.png)
 
 
@@ -31,4 +30,4 @@ Male-female wires | Cables | 3
 
 
 ## Arduino Firmware
-See [Railway-Crossing-2-Sensor Arduino program](https://github.com/TuanANg/railway-crossing/blob/master/railwayCrossing_firmWare/railwayCrossing_firmWare.ino)
+See [Railway-Crossing-2-Sensor Arduino program](https://github.com/TuanANg/railway-crossing/blob/2-sensor/firmware/railwayCrossing_firmWare.ino)
