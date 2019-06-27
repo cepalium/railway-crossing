@@ -6,6 +6,7 @@ The railway model in Zusebau room 2045 should be extended by a Crossing Gate. Th
 Requirements | Functional
 ------------ | ----------
 Must-have | <ul><li>The crossing gate is open when no train is coming near the gate.</li><li>The crossing gate is closed when a train is about to cross and during crossing the gate.</li><li>The crossing gate is open again when the train passes the gate.</li><li>Train can stop between the sensors.</li></ul>
+Constraints | <ul><li>Distance between left-sided sensor and right-sided sensor is longer than the train</li><li>Use Arduino</li></ul>
 
 ## Schematics (Fritzing)
 
