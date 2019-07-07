@@ -3,7 +3,7 @@
 */
 
 // These constants won't change. They're used to give names to the pins used:
-const int irInput = A0;  // Analog input pin that TCRT5000 is attached to
+const int irInput = A4;  // Analog input pin that TCRT5000 is attached to
 const int ledPin = 13; // Digital output pin that the LED is attached to
 
 int irValue;
