@@ -11,8 +11,6 @@ Constraints | <ul><li>Distance between left-sided sensor and right-sided sensor 
 
 ## Schematics (Fritzing)
 
-> schematics/[schematics.fzz](https://github.com/TuanANg/railway-crossing/blob/master/Railway_Crossing.fzz)
-
 ![Railway Crossing Schematics](media/schematics.png)
 
 ## List of Components
@@ -35,7 +33,3 @@ Wires | -- | --
 ## State machine
 
 ![Railway Crossing Behavior](media/state-machine.png)
-
-## Firmware (Arduino)
-
-> /firmware/[firmware.ino](https://github.com/TuanANg/railway-crossing/blob/master/firmWare/firmWare.ino)
